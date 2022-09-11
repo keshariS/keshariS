@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @keshariS
-- 👀 I’m interested in Computer vision and AI and EVs
+- 👀 I’m interested in Computer vision and AI and sustainable transportation.
 - 🌱 I’m currently learning neuroscience!
 - 💞️ I’m looking to collaborate on pretty much anything!
 - 📫 How to reach me: just send an email and if I am competent, we'll brainstorm
